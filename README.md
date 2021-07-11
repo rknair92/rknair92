@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Rakesh 👋
 
-<!--
-**rknair92/rknair92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Model Based Design
+- 🌱 I’m currently learning Python and MBD
+- 👯 I’m looking to collaborate on MBD and Python projects
+- 🤔 I’m open to MBD opportunities 
+- 💬 Ask me about: Building Algorithms and Sensor Technologlies
+- 📫 How to reach me: rknair92@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: A code can be written in half the time with MBD 😎
+
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/rknair92/count.svg" alt="" /></td>
+  </tr>
+</table>
+
+![Malavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rknair92&hide=contribs,prs)
