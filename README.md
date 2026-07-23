@@ -12,11 +12,4 @@
 - ⚡ Fun fact: A code can be written in half the time with MBD 😎
 
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/rknair92/count.svg" alt="" /></td>
-  </tr>
-</table>
 
-![Malavika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rknair92&hide=contribs,prs)
